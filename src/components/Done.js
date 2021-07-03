@@ -1,13 +1,15 @@
 import React from "react";
 
+// components from react bootstrap
 import { Button, Row, Col, Table } from "react-bootstrap";
 
 import { Link } from "react-router-dom";
 
-// importing global context datas
+// importing context datas
 import { todo_data } from "../App";
 
 function Done() {
+  // context data
   const context = React.useContext(todo_data);
   const dones = context.dones;
 
