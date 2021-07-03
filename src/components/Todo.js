@@ -1,26 +1,29 @@
 import React from "react";
 
+// components from react bootstrap
 import { Button, Row, Col, Table } from "react-bootstrap";
 
 import { Link } from "react-router-dom";
 
-// importing global contex datas
+// importing contex datas
 import { todo_data } from "../App";
 
 function Todo() {
+  // context data
   const context = React.useContext(todo_data);
   const todos = context.todos;
   const setTodos = context.setTodos;
   const dones = context.dones;
   const setDones = context.setDones;
 
-  // when done button clicked
+  // done button click function
   const DoneClick = (item, index) => {
-    // add todo to done list
+    // create temp todo
     var temp_data = {
       title: item.title,
       last_date: item.last_date,
     };
+    // add temp todo to done list
     var newDones = [temp_data].concat(dones);
     setDones(newDones);
 
