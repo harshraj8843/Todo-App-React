@@ -7,6 +7,8 @@
 
 <div align="center">
 
+[![Demo](https://img.shields.io/badge/Demo-LIVE-blue)](https://neukcodedemo.web.app/todo)
+
 [![License](https://img.shields.io/github/license/neukcode/Todo-App-React)](https://github.com/neukcode/Todo-App-React/blob/master/LICENSE.md) [![Github Repo Size](https://img.shields.io/github/repo-size/neukcode/Todo-App-React)](https://github.com/neukcode/Todo-App-React) [![Github Download](https://img.shields.io/github/downloads/neukcode/Todo-App-React/total)](https://github.com/neukcode/Todo-App-React) [![Github Version](https://img.shields.io/github/package-json/v/neukcode/Todo-App-React)](https://github.com/neukcode/Todo-App-React)
 
 [![Github Stars](https://img.shields.io/github/stars/neukcode/Todo-App-React?style=social)](https://github.com/neukcode/Todo-App-React/stargazers) [![Github Forks](https://img.shields.io/github/forks/neukcode/Todo-App-React?style=social)](https://github.com/neukcode/Todo-App-React/network/members) [![Github Watchers](https://img.shields.io/github/watchers/neukcode/Todo-App-React?style=social)](https://github.com/neukcode/Todo-App-React/watchers)
