@@ -1,18 +1,12 @@
-
 <h3 align="center">Todo App React</h3>
 
 ---
-
-<p align="center"> A simple Todo App in React
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -26,7 +20,7 @@ A simple Todo App in React.
 
 - clone project
   ```
-  git clone https://github.com/harshraj8843/Todo-App-React
+  git clone https://github.com/novicexp/Todo-App-React
   ```
   ```
   cd Todo-App-React/
@@ -43,8 +37,3 @@ A simple Todo App in React.
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@harshraj8843](https://github.com/harshraj8843)
-
