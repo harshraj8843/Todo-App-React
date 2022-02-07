@@ -20,7 +20,7 @@ A simple Todo App in React.
 
 - clone project
   ```
-  git clone https://github.com/novicexp/Todo-App-React
+  git clone https://github.com/harshraj8843/Todo-App-React
   ```
   ```
   cd Todo-App-React/
