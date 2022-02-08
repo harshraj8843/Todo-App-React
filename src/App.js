@@ -51,7 +51,7 @@ function App() {
         setDones: setDones,
       }}
     >
-      <Router>
+      <Router basename="/todo-app-react">
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
